@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+.idea/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.log
+Thumbs.db
+.DS_Store
